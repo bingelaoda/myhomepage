@@ -340,9 +340,9 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/entry/package.json" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="213" />
-    <option name="y" value="204" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="33" />
     <option name="width" value="1440" />
     <option name="height" value="820" />
   </component>
