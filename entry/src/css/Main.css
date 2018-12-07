@@ -68,7 +68,7 @@
   bottom: 120px;
   left: 1470px;
   right: 0;
-  background:url('../img/about.jpg');
+  background:url('../img/img7.jpg');
   filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";
   -moz-background-size:100% 100%;
   background-size:100% 100%;
@@ -103,7 +103,7 @@
 }
 
 .main_content_blog {
-  background:url('../img/blog.jpg');
+  background:url('../img/learn.jpg');
   filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";
   -moz-background-size:100% 100%;
   background-size:100% 100%;
@@ -131,7 +131,7 @@
 }
 
 .main_content_project {
-  background:url('../img/block.jpg');
+  background:url('../img/hyperledger.jpg');
   filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";
   -moz-background-size:100% 100%;
   background-size:100% 100%;

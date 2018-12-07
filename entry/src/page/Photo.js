@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
 import {Row, Col} from 'antd';
-import '../css/About.css'
-import Gallery3d from '../component/about/Gallery3d'
+import '../css/Photo.css'
+import Gallery3d from '../component/photowall/Gallery3d'
 
-class About extends Component {
+class Photo extends Component {
     render() {
         return (
             <Row className={'about_layout'}>
@@ -13,4 +13,4 @@ class About extends Component {
     }
 }
 
-export default About;
+export default Photo;

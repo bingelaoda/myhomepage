@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import '../../css/About.css';
+import '../../css/Photo.css';
 import {init,stop} from './album';
 
 class Gallery3d extends Component {
@@ -13,21 +13,21 @@ class Gallery3d extends Component {
         var data = {
             imgdata:[
                 // north
-                {img:'imgs/img1.jpg', x:-1000, y:0, z:1500, nx:0, nz:1},
-                {img:'imgs/img2.jpg', x:0,     y:0, z:1500, nx:0, nz:1},
+                {img:'imgs/img1.jpg', x:-700, y:0, z:1500, nx:0, nz:1},
+                {img:'imgs/img2.jpg', x:400,     y:0, z:1500, nx:0, nz:1},
                 {img:'imgs/me.jpg', x:1000,  y:0, z:1500, nx:0, nz:1},
                 // east
                 {img:'imgs/img4.jpg', x:1500,  y:0, z:1000, nx:-1, nz:0},
                 {img:'imgs/img5.jpg', x:1500,  y:0, z:0, nx:-1, nz:0},
-                {img:'imgs/m5.jpg', x:1500,  y:0, z:-1000, nx:-1, nz:0},
+                {img:'imgs/img6.jpg', x:1500,  y:0, z:-1000, nx:-1, nz:0},
                 // south
-                {img:'imgs/m6.jpg', x:1000,  y:0, z:-1500, nx:0, nz:-1},
-                {img:'imgs/m7.jpg', x:0,     y:0, z:-1500, nx:0, nz:-1},
-                {img:'imgs/m8.jpg', x:-1000, y:0, z:-1500, nx:0, nz:-1},
+                {img:'imgs/img7.jpg', x:1000,  y:0, z:-1500, nx:0, nz:-1},
+                {img:'imgs/img8.jpg', x:0,     y:0, z:-1500, nx:0, nz:-1},
+                {img:'imgs/img9.jpg', x:-1000, y:0, z:-1500, nx:0, nz:-1},
                 // west
-                {img:'imgs/m9.jpg', x:-1500, y:0, z:-1000, nx:1, nz:0},
-                {img:'imgs/m10.jpg', x:-1500, y:0, z:0, nx:1, nz:0},
-                {img:'imgs/wechat.jpg', x:-1500, y:0, z:1000, nx:1, nz:0}
+                {img:'imgs/img10.jpg', x:-1500, y:0, z:-1000, nx:1, nz:0},
+                {img:'imgs/img11.jpg', x:-1500, y:0, z:0, nx:1, nz:0},
+                {img:'imgs/img12.jpg', x:-1500, y:0, z:1000, nx:1, nz:0}
             ],
             structure:[
                 {
